@@ -1,3 +1,5 @@
+// Most frequently word in string.
+
 text = "John is the son John second second son of John second is William second"
 dict = {}
 
